@@ -45,9 +45,9 @@ Personal Profile is a Java-based web application that displays personal profile 
 ## 📸 Screenshots
 
 <!-- Add a screenshot of your app here -->
-![Home Page](screenshots/home.png)
+![Home Page](screenshots/Screenshot 2026-11-03 180846.png)
 
 ## 👨‍💻 Author
 
-**Your Name**  
-[GitHub](https://github.com/your-username) · [LinkedIn](https://linkedin.com/in/your-profile)
+**Iqmal Syakimi**  
+[GitHub](https://github.com/iqmalsyakimi) · [LinkedIn](https://www.linkedin.com/in/iqmal-ibrahim-3b2072341/)
