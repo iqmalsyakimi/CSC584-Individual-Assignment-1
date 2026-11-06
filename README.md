@@ -45,7 +45,12 @@ Personal Profile is a Java-based web application that displays personal profile 
 ## 📸 Screenshots
 
 <!-- Add a screenshot of your app here -->
-![Home Page](screenshots/Screenshot%202026-11-03%20180846.png)
+## 📸 Screenshots
+
+<p align="center">
+  <img src="screenshots/Screenshot%202026-11-03%20180846.png" width="45%" alt="Screenshot 1" />
+  <img src="screenshots/Screenshot%202026-11-03%20180812.png" width="45%" alt="Screenshot 2" />
+</p>
 
 ## 👨‍💻 Author
 
