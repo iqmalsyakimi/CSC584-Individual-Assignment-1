@@ -52,5 +52,5 @@ Personal Profile is a Java-based web application that displays personal profile 
 
 ## 👨‍💻 Author
 
-**Iqmal Syakimi**  
+**Muhammad Iqmal Syakimi bin Ibrahim**  
 [GitHub](https://github.com/iqmalsyakimi) · [LinkedIn](https://www.linkedin.com/in/iqmal-ibrahim-3b2072341/)
